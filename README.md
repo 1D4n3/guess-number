@@ -36,5 +36,5 @@
 * Из Packagist:
     * Установить composer, если он не установлен; 
     * Перейти в каталог, в который вы будете клонировать проект;
-    * Выполнить команду composer require Yukiowtnb/guess-number; Перейти в каталог vendor/bin; Запустить Командную строку и ввести "php guess-number.php".
-    * Ссылки Packagist: yukio/guess-number
+    * Выполнить команду composer require 1D4n3/guess-number; Перейти в каталог vendor/bin; Запустить Командную строку и ввести "php guess-number.php".
+    * Ссылки Packagist: 1D4n3/guess-number
